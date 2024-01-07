@@ -1,4 +1,20 @@
+
+
 # Django Social Blog
+
+![1](/README_IMAGES/1.png)
+![2](/README_IMAGES/2.png)
+![3](/README_IMAGES/3.png)
+![4](/README_IMAGES/4.png)
+![5](/README_IMAGES/5.png)
+![6](/README_IMAGES/6.png)
+![7](/README_IMAGES/7.png)
+![8](/README_IMAGES/8.png)
+![9](/README_IMAGES/9.png)
+![10](/README_IMAGES/10.png)
+![11](/README_IMAGES/11.png)
+![12](/README_IMAGES/12.png)
+
 
 A blog-centric social media platform developed using Django 4.0.1, where users can create, manage, and share posts, as well as handle user profile management and authentication.
 
